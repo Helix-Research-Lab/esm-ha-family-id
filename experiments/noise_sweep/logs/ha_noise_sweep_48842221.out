@@ -1,0 +1,214 @@
+Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t33_650M_UR50D.pt" to /tmp/torch/hub/checkpoints/esm2_t33_650M_UR50D.pt
+Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t33_650M_UR50D-contact-regression.pt" to /tmp/torch/hub/checkpoints/esm2_t33_650M_UR50D-contact-regression.pt
+device=cpu proteins=['P07477', 'P08246', 'P08311', 'P07288', 'P17538', 'P00742'] levels=[5.0, 10.0, 20.0, 30.0, 50.0, 70.0] seeds=5
+P07477 0% seed0: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 10.1s
+P07477 0% seed1: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.7s
+P07477 0% seed2: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 0% seed3: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 0% seed4: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.6s
+P07477 5% seed0: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.4s
+P07477 5% seed1: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.4s
+P07477 5% seed2: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 5% seed3: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 5% seed4: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.6s
+P07477 10% seed0: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.4s
+P07477 10% seed1: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.4s
+P07477 10% seed2: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 10% seed3: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 10% seed4: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.6s
+P07477 20% seed0: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.4s
+P07477 20% seed1: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.3s
+P07477 20% seed2: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 20% seed3: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 20% seed4: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.6s
+P07477 30% seed0: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 30% seed1: layer 10 (wt 10), HA 143;201 (wt 60;143), jaccard 0.33, 3.5s
+P07477 30% seed2: layer 10 (wt 10), HA 143;201 (wt 60;143), jaccard 0.33, 3.5s
+P07477 30% seed3: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.5s
+P07477 30% seed4: layer 10 (wt 10), HA 60;143 (wt 60;143), jaccard 1.00, 3.6s
+P07477 50% seed0: layer 10 (wt 10), HA  (wt 60;143), jaccard 0.00, 3.2s
+P07477 50% seed1: layer 13 (wt 10), HA  (wt 60;143), jaccard 0.00, 3.4s
+P07477 50% seed2: layer 16 (wt 10), HA 50;60;208 (wt 60;143), jaccard 0.25, 3.4s
+P07477 50% seed3: layer 8 (wt 10), HA  (wt 60;143), jaccard 0.00, 3.6s
+P07477 50% seed4: layer 14 (wt 10), HA  (wt 60;143), jaccard 0.00, 3.8s
+P07477 70% seed0: layer 14 (wt 10), HA  (wt 60;143), jaccard 0.00, 3.2s
+P07477 70% seed1: layer 22 (wt 10), HA  (wt 60;143), jaccard 0.00, 3.5s
+P07477 70% seed2: layer 14 (wt 10), HA 211 (wt 60;143), jaccard 0.00, 3.2s
+P07477 70% seed3: layer 14 (wt 10), HA 22 (wt 60;143), jaccard 0.00, 3.3s
+P07477 70% seed4: layer 14 (wt 10), HA  (wt 60;143), jaccard 0.00, 3.9s
+P08246 0% seed0: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.5s
+P08246 0% seed1: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.6s
+P08246 0% seed2: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.7s
+P08246 0% seed3: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.7s
+P08246 0% seed4: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.8s
+P08246 5% seed0: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.6s
+P08246 5% seed1: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.5s
+P08246 5% seed2: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.6s
+P08246 5% seed3: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.8s
+P08246 5% seed4: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.4s
+P08246 10% seed0: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.3s
+P08246 10% seed1: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.3s
+P08246 10% seed2: layer 10 (wt 10), HA 67;155;203 (wt 67;203), jaccard 0.67, 4.3s
+P08246 10% seed3: layer 10 (wt 10), HA 67;155 (wt 67;203), jaccard 0.33, 4.3s
+P08246 10% seed4: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.4s
+P08246 20% seed0: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.3s
+P08246 20% seed1: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.2s
+P08246 20% seed2: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 4.0s
+P08246 20% seed3: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.7s
+P08246 20% seed4: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.7s
+P08246 30% seed0: layer 10 (wt 10), HA 155;203 (wt 67;203), jaccard 0.33, 3.4s
+P08246 30% seed1: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.5s
+P08246 30% seed2: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.5s
+P08246 30% seed3: layer 10 (wt 10), HA 67;155 (wt 67;203), jaccard 0.33, 3.6s
+P08246 30% seed4: layer 10 (wt 10), HA 67;203 (wt 67;203), jaccard 1.00, 3.7s
+P08246 50% seed0: layer 10 (wt 10), HA 67 (wt 67;203), jaccard 0.50, 3.5s
+P08246 50% seed1: layer 16 (wt 10), HA  (wt 67;203), jaccard 0.00, 3.3s
+P08246 50% seed2: layer 10 (wt 10), HA 203 (wt 67;203), jaccard 0.50, 3.5s
+P08246 50% seed3: layer 10 (wt 10), HA 155 (wt 67;203), jaccard 0.00, 3.6s
+P08246 50% seed4: layer 10 (wt 10), HA 67 (wt 67;203), jaccard 0.50, 3.8s
+P08246 70% seed0: layer 12 (wt 10), HA 217;218 (wt 67;203), jaccard 0.00, 3.2s
+P08246 70% seed1: layer 21 (wt 10), HA 18 (wt 67;203), jaccard 0.00, 3.2s
+P08246 70% seed2: layer 12 (wt 10), HA  (wt 67;203), jaccard 0.00, 3.2s
+P08246 70% seed3: layer 9 (wt 10), HA 65 (wt 67;203), jaccard 0.00, 3.3s
+P08246 70% seed4: layer 14 (wt 10), HA  (wt 67;203), jaccard 0.00, 3.8s
+P08311 0% seed0: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.5s
+P08311 0% seed1: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.6s
+P08311 0% seed2: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.6s
+P08311 0% seed3: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.5s
+P08311 0% seed4: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.8s
+P08311 5% seed0: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.4s
+P08311 5% seed1: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.5s
+P08311 5% seed2: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.5s
+P08311 5% seed3: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.6s
+P08311 5% seed4: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.7s
+P08311 10% seed0: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.5s
+P08311 10% seed1: layer 10 (wt 10), HA 146;202 (wt 61;146), jaccard 0.33, 3.5s
+P08311 10% seed2: layer 10 (wt 10), HA 146;202 (wt 61;146), jaccard 0.33, 3.5s
+P08311 10% seed3: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.6s
+P08311 10% seed4: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.8s
+P08311 20% seed0: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.4s
+P08311 20% seed1: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.5s
+P08311 20% seed2: layer 10 (wt 10), HA 61;202 (wt 61;146), jaccard 0.33, 3.6s
+P08311 20% seed3: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.6s
+P08311 20% seed4: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.7s
+P08311 30% seed0: layer 8 (wt 10), HA  (wt 61;146), jaccard 0.00, 3.5s
+P08311 30% seed1: layer 10 (wt 10), HA 61;202 (wt 61;146), jaccard 0.33, 3.5s
+P08311 30% seed2: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.5s
+P08311 30% seed3: layer 10 (wt 10), HA 61;146 (wt 61;146), jaccard 1.00, 3.7s
+P08311 30% seed4: layer 10 (wt 10), HA 146;202 (wt 61;146), jaccard 0.33, 3.7s
+P08311 50% seed0: layer 10 (wt 10), HA 146 (wt 61;146), jaccard 0.50, 3.4s
+P08311 50% seed1: layer 10 (wt 10), HA  (wt 61;146), jaccard 0.00, 3.6s
+P08311 50% seed2: layer 17 (wt 10), HA  (wt 61;146), jaccard 0.00, 3.6s
+P08311 50% seed3: layer 10 (wt 10), HA  (wt 61;146), jaccard 0.00, 4.1s
+P08311 50% seed4: layer 10 (wt 10), HA 61 (wt 61;146), jaccard 0.50, 3.8s
+P08311 70% seed0: layer 16 (wt 10), HA  (wt 61;146), jaccard 0.00, 3.6s
+P08311 70% seed1: layer 13 (wt 10), HA 186 (wt 61;146), jaccard 0.00, 3.5s
+P08311 70% seed2: layer 10 (wt 10), HA 146 (wt 61;146), jaccard 0.50, 3.4s
+P08311 70% seed3: layer 14 (wt 10), HA  (wt 61;146), jaccard 0.00, 3.6s
+P08311 70% seed4: layer 11 (wt 10), HA 2;65;255 (wt 61;146), jaccard 0.00, 3.2s
+P07288 0% seed0: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.5s
+P07288 0% seed1: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 0% seed2: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 0% seed3: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.7s
+P07288 0% seed4: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.8s
+P07288 5% seed0: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.5s
+P07288 5% seed1: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 5% seed2: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.7s
+P07288 5% seed3: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.7s
+P07288 5% seed4: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.7s
+P07288 10% seed0: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 10% seed1: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.5s
+P07288 10% seed2: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.5s
+P07288 10% seed3: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 10% seed4: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.7s
+P07288 20% seed0: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 20% seed1: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 20% seed2: layer 10 (wt 10), HA 156;214 (wt 62;156), jaccard 0.33, 3.6s
+P07288 20% seed3: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.7s
+P07288 20% seed4: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.8s
+P07288 30% seed0: layer 8 (wt 10), HA  (wt 62;156), jaccard 0.00, 3.5s
+P07288 30% seed1: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 30% seed2: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 30% seed3: layer 10 (wt 10), HA 62;156 (wt 62;156), jaccard 1.00, 3.6s
+P07288 30% seed4: layer 10 (wt 10), HA 156;214 (wt 62;156), jaccard 0.33, 3.8s
+P07288 50% seed0: layer 8 (wt 10), HA  (wt 62;156), jaccard 0.00, 3.5s
+P07288 50% seed1: layer 10 (wt 10), HA 62 (wt 62;156), jaccard 0.50, 3.4s
+P07288 50% seed2: layer 6 (wt 10), HA 233 (wt 62;156), jaccard 0.00, 3.2s
+P07288 50% seed3: layer 14 (wt 10), HA  (wt 62;156), jaccard 0.00, 4.3s
+P07288 50% seed4: layer 16 (wt 10), HA  (wt 62;156), jaccard 0.00, 4.4s
+P07288 70% seed0: layer 21 (wt 10), HA 1;64;197 (wt 62;156), jaccard 0.00, 3.8s
+P07288 70% seed1: layer 8 (wt 10), HA  (wt 62;156), jaccard 0.00, 4.0s
+P07288 70% seed2: layer 16 (wt 10), HA  (wt 62;156), jaccard 0.00, 4.3s
+P07288 70% seed3: layer 17 (wt 10), HA  (wt 62;156), jaccard 0.00, 4.5s
+P07288 70% seed4: layer 15 (wt 10), HA  (wt 62;156), jaccard 0.00, 3.9s
+P17538 0% seed0: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 0% seed1: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 4.1s
+P17538 0% seed2: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.9s
+P17538 0% seed3: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 0% seed4: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.7s
+P17538 5% seed0: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 5% seed1: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 5% seed2: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 5% seed3: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 5% seed4: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 10% seed0: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.4s
+P17538 10% seed1: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 10% seed2: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 10% seed3: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 10% seed4: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 20% seed0: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.4s
+P17538 20% seed1: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.9s
+P17538 20% seed2: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 20% seed3: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 20% seed4: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 30% seed0: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.4s
+P17538 30% seed1: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 30% seed2: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.5s
+P17538 30% seed3: layer 10 (wt 10), HA 72;158 (wt 72;158), jaccard 1.00, 3.6s
+P17538 30% seed4: layer 8 (wt 10), HA  (wt 72;158), jaccard 0.00, 3.7s
+P17538 50% seed0: layer 16 (wt 10), HA  (wt 72;158), jaccard 0.00, 3.5s
+P17538 50% seed1: layer 11 (wt 10), HA 68 (wt 72;158), jaccard 0.00, 3.6s
+P17538 50% seed2: layer 11 (wt 10), HA 158 (wt 72;158), jaccard 0.50, 3.2s
+P17538 50% seed3: layer 10 (wt 10), HA  (wt 72;158), jaccard 0.00, 3.5s
+P17538 50% seed4: layer 10 (wt 10), HA 72 (wt 72;158), jaccard 0.50, 3.6s
+P17538 70% seed0: layer 11 (wt 10), HA 33;87;91;149 (wt 72;158), jaccard 0.00, 3.3s
+P17538 70% seed1: layer 16 (wt 10), HA  (wt 72;158), jaccard 0.00, 3.2s
+P17538 70% seed2: layer 16 (wt 10), HA 105;125;219 (wt 72;158), jaccard 0.00, 3.2s
+P17538 70% seed3: layer 10 (wt 10), HA 137 (wt 72;158), jaccard 0.00, 3.3s
+P17538 70% seed4: layer 14 (wt 10), HA  (wt 72;158), jaccard 0.00, 3.7s
+P00742 0% seed0: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.4s
+P00742 0% seed1: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.4s
+P00742 0% seed2: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.4s
+P00742 0% seed3: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.5s
+P00742 0% seed4: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.6s
+P00742 5% seed0: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.4s
+P00742 5% seed1: layer 10 (wt 10), HA 151;273;363;420 (wt 273;363;420), jaccard 0.75, 4.4s
+P00742 5% seed2: layer 10 (wt 10), HA 112;273;363;420 (wt 273;363;420), jaccard 0.75, 4.4s
+P00742 5% seed3: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.5s
+P00742 5% seed4: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.7s
+P00742 10% seed0: layer 10 (wt 10), HA 151;273;363;420 (wt 273;363;420), jaccard 0.75, 4.4s
+P00742 10% seed1: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.4s
+P00742 10% seed2: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.5s
+P00742 10% seed3: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 5.7s
+P00742 10% seed4: layer 10 (wt 10), HA 151;273;363;420 (wt 273;363;420), jaccard 0.75, 4.6s
+P00742 20% seed0: layer 10 (wt 10), HA 273 (wt 273;363;420), jaccard 0.33, 4.4s
+P00742 20% seed1: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.4s
+P00742 20% seed2: layer 10 (wt 10), HA 112;151;273;274;363;420 (wt 273;363;420), jaccard 0.50, 4.4s
+P00742 20% seed3: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.6s
+P00742 20% seed4: layer 10 (wt 10), HA 273 (wt 273;363;420), jaccard 0.33, 4.7s
+P00742 30% seed0: layer 10 (wt 10), HA 273;420 (wt 273;363;420), jaccard 0.67, 4.4s
+P00742 30% seed1: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.5s
+P00742 30% seed2: layer 10 (wt 10), HA 273;420 (wt 273;363;420), jaccard 0.67, 4.5s
+P00742 30% seed3: layer 10 (wt 10), HA 272;273;363;420 (wt 273;363;420), jaccard 0.75, 4.5s
+P00742 30% seed4: layer 10 (wt 10), HA 273;363;420 (wt 273;363;420), jaccard 1.00, 4.6s
+P00742 50% seed0: layer 13 (wt 10), HA 420 (wt 273;363;420), jaccard 0.33, 4.4s
+P00742 50% seed1: layer 16 (wt 10), HA 383;421 (wt 273;363;420), jaccard 0.00, 4.3s
+P00742 50% seed2: layer 10 (wt 10), HA 149;151;443 (wt 273;363;420), jaccard 0.00, 4.0s
+P00742 50% seed3: layer 16 (wt 10), HA  (wt 273;363;420), jaccard 0.00, 4.6s
+P00742 50% seed4: layer 2 (wt 10), HA 8;22;79;98;121;123;133;136;151;154;214;386 (wt 273;363;420), jaccard 0.00, 4.0s
+P00742 70% seed0: layer 16 (wt 10), HA  (wt 273;363;420), jaccard 0.00, 4.6s
+P00742 70% seed1: layer 16 (wt 10), HA 58;122;307;437 (wt 273;363;420), jaccard 0.00, 4.1s
+P00742 70% seed2: layer 20 (wt 10), HA  (wt 273;363;420), jaccard 0.00, 4.4s
+P00742 70% seed3: layer 11 (wt 10), HA 273;420 (wt 273;363;420), jaccard 0.67, 4.5s
+P00742 70% seed4: layer 11 (wt 10), HA 8;96;137;149;182;188;191;257;263;286;293;297;327;413;415;418;463 (wt 273;363;420), jaccard 0.00, 4.0s
+done: results/noise_sweep.csv
